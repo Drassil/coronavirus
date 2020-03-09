@@ -1,3 +1,5 @@
+# Come contribuire
+
 Questa wiki, il suo codice ed il suo contenuto è ospitata dal servizio gratuito [github](https://github.com/).
 
 Per poter inviare una richiesta di modifica è necessario registrare un account sul sito [github](https://github.com/).
