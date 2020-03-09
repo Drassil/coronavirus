@@ -89,9 +89,9 @@ E' necessario quindi chiedere alla propria azienda di prendere tutte le precauzi
 
 * **Cinema e Serie:** Netflix, Amazon Video, Youtube
 * **Giochi smartphones, PC e Console.**
-* **Giochi in streaming** (anche su dispositivi lenti): [Playstation Now](https://www.playstation.com/it-it/explore/playstation-now/) , Google stadia, Geforce Now.
+* **Giochi in streaming** (anche su dispositivi lenti): [Playstation Now](https://www.playstation.com/it-it/explore/playstation-now/) , Google stadia, [Geforce Now](https://www.nvidia.com/it-it/geforce-now/).
 * **Simulatori vita reale**: [Second Life](https://join.secondlife.com/)
-* **Social networks**: Facebook, Instagram
+* **Social networks**: [Facebook](http://www.facebook.com/), [Instagram](https://instagram.com), [telegram](https://telegram.org/#/im), [discord](https://discordapp.com/)
 * **Musica**: Spotify, Youtube Music, Amazon Music
 
 
