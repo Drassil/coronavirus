@@ -95,6 +95,12 @@ E' necessario quindi chiedere alla propria azienda di prendere tutte le precauzi
 * **Musica**: Spotify, Youtube Music, Amazon Music
 
 
+#### Attività fisiche
+Per chi ha degli attrezzi in casa è bene sfruttarli per rimanere allenati e in salute, in ogni caso è bene sapere che uno dei migliori allenamenti è quello a corpo libero, ovvero a costo zero!
+
+* [7 minute workout](https://play.google.com/store/apps/details?id=com.jnj.sevenminuteworkout&hl=it): Allenamento completo a corpo libero per chi non ha molto tempo disponibile
+
+
 #### Conto in banca
 Molte banche oggi permettono l'apertura di un conto in banca senza dover recarsi in nessuna filiale:
 
