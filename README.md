@@ -40,8 +40,35 @@ In questo caso particolare di emergenza sanitaria però è richiesta la massima 
 
 ### Come evitare la diffusione del virus con la quarantena
 
+[WIP]
+
 ### Come vivere in quarantena
 
+[WIP]
+
+#### Spesa
+* Amazon
+* Zalando
+
+#### Lavoro
+* Remote working
+
+#### Studio
+* Scuola online
+* Università telematica
+
+#### Servizi comunali
+
+#### Commercialista
+
+https://www.fiscozen.it/app/dashboard
+
+#### Legale
+
+https://www.lexdo.it/
+
 ### L'economia ai tempi del COVID-19
+
+[WIP: i servizi online in parallelo ai servizi fisici]
 
 
