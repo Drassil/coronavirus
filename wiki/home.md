@@ -105,6 +105,7 @@ Molte banche oggi permettono l'apertura di un conto in banca senza dover recarsi
 #### Sim telefoniche
 
 * [Iliad](https://www.iliad.it/)
+* [Ho](https://www.ho-mobile.it/)
 
 #### Commercialista
 
