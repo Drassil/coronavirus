@@ -2,7 +2,7 @@
 
 Questa WIKI è stata creata per contenere guide e informazioni utili per poter contrastare al meglio il virus COVID-19.
 Il progetto è **no-profit**, libero da pubblicità ed [open source](https://github.com/Drassil/coronavirus). 
-Chiunque è in grado di editare e aggiungere contenuti semplicemente utilizzando le voci di menù "edit/add". Invito tutti a collaborare nella raccolta e validazione delle informazioni di questa wiki, [qui trovate le istruzioni si come fare](come-collaborare).
+Chiunque è in grado di editare e aggiungere contenuti semplicemente utilizzando le voci di menù "edit/add". Invito tutti a collaborare nella raccolta e validazione delle informazioni di questa wiki, [qui trovate le istruzioni si come fare](come-contribuire).
 
 ### Perché devi informarti e responsabilizzarti:
 
@@ -64,31 +64,52 @@ Qui sotto proviamo ad elencare una serie di servizi affidabili e riconosciuti da
 #### Spesa
 Esistono centinaia di servizi estremamente affidabili, spesso anche più delle classiche attività commerciali, che sostituiscono i comuni negozi fisici:
 
+* [Sole365](https://www.sole365.it/cosicomodo/): Spesa online
 * [Amazon](https://www.amazon.it/): negozio online dove acquistare qualsiasi cosa e con consegna in 1 giorno lavorativo.
 * [Amazon Patry](https://www.amazon.it/Amazon-Pantry/b/?ie=UTF8&node=10547410031): per la spesa di tutti i giorni
 * [Zalando](https://www.zalando.nl/): Scarpe, Vestiti e accessori
+* [Mediaworld](https://www.mediaworld.it/): Elettronica
 
 #### Lavoro
-* Remote working
+In molti paesi le aziende concedono la possibilità parziale e/o totale di lavorare da casa tramite strumenti di lavoro remoto.
+E' necessario quindi chiedere alla propria azienda di prendere tutte le precauzioni necessarie per prevenire il contagio e, qualora possibile, richiedere il lavoro da casa. Alcuni siti dove trovare lavori che è possibile svolgere da remoto sono i seguenti:
+
+* Remote working: [Remoteok](https://remoteok.io/)
+* Freelancing: [Fiverr](https://www.fiverr.com/), [Freelancer.com](https://www.freelancer.com/)
 
 #### Studio
 * Scuola online
 * Università telematica
 
-#### Divertimento
+#### Divertimento e social
 
-#### Servizi comunali
+* **Cinema e Serie:** Netflix, Amazon Video, Youtube
+* **Giochi smartphones, PC e Console.**
+* **Giochi in streaming** (anche su dispositivi lenti): [Playstation Now](https://www.playstation.com/it-it/explore/playstation-now/) , Google stadia, Geforce Now.
+* **Simulatori vita reale**: [Second Life](https://join.secondlife.com/)
+* **Social networks**: Facebook, Instagram
+* **Musica**: Spotify, Youtube Music, Amazon Music
+
+
+#### Conto in banca
+Molte banche oggi permettono l'apertura di un conto in banca senza dover recarsi in nessuna filiale:
+
+* [BUNQ](https://www.bunq.com/)
+* [REVOLUT](https://www.revolut.com/it-IT)
+* [N26](https://n26.com/it-it)
+
+#### Sim telefoniche
+
+* [Iliad](https://www.iliad.it/)
 
 #### Commercialista
 
-https://www.fiscozen.it/app/dashboard
+[Fiscozen](https://www.fiscozen.it/app/dashboard)
 
 #### Legale
 
-https://www.lexdo.it/
+[Lexdo](https://www.lexdo.it/)
 
-### L'economia ai tempi del COVID-19
 
-[WIP: i servizi online in parallelo ai servizi fisici]
 
 
