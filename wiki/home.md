@@ -61,7 +61,7 @@ Al giorno d'oggi l'era dei servizi online si è estesa su tutti i campi di inter
 
 Molti al giorno d'oggi utilizzano questi servizi anziché i classici. **Vivere online**: non vuol dire rimuovere del tutto i contatti sociali, bensì aiuta a ridurre i tempi e i costi di spostamento e ricerca permettendoti di sfruttare al meglio il tempo libero.
 
-In Italia sono stati fatti molti passi avanti con gli anni garantendo ad esempio la gestione di molti servizi tramite apposite app e porali online.
+In Italia sono stati fatti molti passi avanti con gli anni garantendo ad esempio la gestione di molti servizi tramite apposite app e portali online.
 
 Qui sotto proviamo ad elencare una serie di servizi affidabili e riconosciuti da poter utilizzare per le più comuni operazioni e per sopperire alla necessità di svago e sopravvivenza. Sentitevi liberi di inviare una richiesta di modifica della pagina per aggiungere eventuali ulteriori servizi mancanti.
 
