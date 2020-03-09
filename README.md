@@ -104,11 +104,11 @@ Molte banche oggi permettono l'apertura di un conto in banca senza dover recarsi
 
 #### Commercialista
 
-[Fiscozen](https://www.fiscozen.it/app/dashboard)
+* [Fiscozen](https://www.fiscozen.it/app/dashboard)
 
 #### Legale
 
-[Lexdo](https://www.lexdo.it/)
+* [Lexdo](https://www.lexdo.it/)
 
 
 
