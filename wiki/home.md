@@ -53,7 +53,11 @@ In questo caso particolare di emergenza sanitaria però è richiesta la massima 
 
 Uno dei metodi più efficaci per evitare la diffusione del virus è una quarantena personale, soprattutto per chi vive in aree ad alto rischio come in Italia. Siccome il virus ha un periodo di incubazione che va fino ai 14 giorni e si presenta con gravi sintomi nelle persone destabilizzate, se tutti rispettassero autonomamente la quarantena, si limitassero e controllassero gli accessi al paese, tale virus potrebbe essere contenuto in tempi inferiori a quelli previsti.
 
-Inoltre è consigliato di restare in buona salute, assumendo [1000 mg di Vitamina C](https://www.gruppomacro.com/blog/salute-e-benessere/vitamina-c-e-coronavirus) al giorno che può essere acquistata anche via internet a prezzi molto bassi.
+Inoltre è consigliato di restare in buona salute:
+* Restare al caldo ma con un buon [ricambio d'aria](https://www.tuttogreen.it/ecco-le-regole-per-un-ricambio-daria-perfetto/)
+* Fare un sufficiente esercizio fisico anche a corpo libero e in casa. 
+* Assumere sufficienti liquidi e calorie a seconda del proprio fabbisogno. Bere almeno 1.5L d'acqua e mangiare verdure, proteine, pesce, uova e pochi carboidrati.
+* Assumere [1000 mg di Vitamina C](https://www.gruppomacro.com/blog/salute-e-benessere/vitamina-c-e-coronavirus) al giorno che può essere acquistata anche via internet a prezzi molto bassi.
 
 ### Come vivere in quarantena
 
