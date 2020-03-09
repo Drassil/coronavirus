@@ -57,7 +57,7 @@ Uno dei metodi più efficaci per evitare la diffusione del virus è una quarante
 Inoltre è consigliato di restare in buona salute:
 * Restare al caldo ma con un buon [ricambio d'aria](https://www.tuttogreen.it/ecco-le-regole-per-un-ricambio-daria-perfetto/)
 * Fare un sufficiente esercizio fisico anche a corpo libero e in casa. 
-* Assumere sufficienti liquidi e calorie a seconda del proprio fabbisogno. Bere almeno 1.5L d'acqua e mangiare verdure, proteine, pesce, uova e pochi carboidrati.
+* Assumere sufficienti liquidi e calorie a seconda del proprio fabbisogno. Bere almeno 1.5L d'acqua e mangiare adeguate quantità di verdure, proteine, pesce, uova e frutta.
 * Assumere [1000 mg di Vitamina C](https://www.gruppomacro.com/blog/salute-e-benessere/vitamina-c-e-coronavirus) al giorno che può essere acquistata anche via internet a prezzi molto bassi.
 
 ## Come vivere in quarantena
