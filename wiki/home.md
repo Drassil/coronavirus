@@ -51,7 +51,7 @@ In questo caso particolare di emergenza sanitaria però è richiesta la massima 
 
 ### Come evitare la diffusione del virus e curarsi
 
-Uno dei metodi più efficaci per evitare la diffusione del virus è una quarantena personale, soprattutto per chi vive in aree ad alto rischio come in Italia. Siccome il virus ha un periodo di incubazione di 14 giorni e si presenta con gravi sintomi nelle persone destabilizzate, se tutti rispettassero autonomamente la quarantena e si limitassero e controllassero gli accessi al paese, tale virus potrà essere contenuto in tempi inferiori a quelli previsti.
+Uno dei metodi più efficaci per evitare la diffusione del virus è una quarantena personale, soprattutto per chi vive in aree ad alto rischio come in Italia. Siccome il virus ha un periodo di incubazione che va fino ai 14 giorni e si presenta con gravi sintomi nelle persone destabilizzate, se tutti rispettassero autonomamente la quarantena, si limitassero e controllassero gli accessi al paese, tale virus potrebbe essere contenuto in tempi inferiori a quelli previsti.
 
 E' consigliato cercare di restare in buona salute, assumendo [1000 mg di Vitamina C](https://www.gruppomacro.com/blog/salute-e-benessere/vitamina-c-e-coronavirus) al giorno che può essere acquistata anche via internet a prezzi molto bassi.
 
