@@ -26,7 +26,7 @@ Il virus che causa l'attuale epidemia di coronavirus è stato chiamato "Sindrome
 
 ### Quali sono i sintomi?
 
-I sintomi più comuni di sono febbre, stanchezza e tosse secca. Alcuni pazienti possono presentare indolenzimento e dolori muscolari, congestione nasale, naso che cola, mal di gola o diarrea. Questi sintomi sono generalmente lievi e iniziano gradualmente. Nei casi più gravi, l'infezione può causare polmonite, sindrome respiratoria acuta grave, insufficienza renale e la morte.
+I sintomi più comuni sono febbre, stanchezza e tosse secca. Alcuni pazienti possono presentare indolenzimento e dolori muscolari, congestione nasale, naso che cola, mal di gola o diarrea. Questi sintomi sono generalmente lievi e iniziano gradualmente. Nei casi più gravi, l'infezione può causare polmonite, sindrome respiratoria acuta grave, insufficienza renale e la morte.
 
 ### Come si trasmette:
 
