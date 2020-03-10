@@ -41,7 +41,7 @@ Il nuovo coronavirus è un virus respiratorio che si diffonde principalmente att
 
 Secondo l'OMS le persone che non presentano i sintomi hanno "una minore" probabilità di contagiare.
 
-Il virus sopravvive poche ore sulle superfici, percui è sicuro utilizzare oggetti o alimenti anche se questi sono entrati a contatto con persone infette nei giorni precedenti. Bisogna però fare attenzione a particolari superfici come ad esempio le maniglie degli autobus.
+Il virus sopravvive poche ore sulle superfici, per cui è sicuro utilizzare oggetti o alimenti anche se questi sono entrati a contatto con persone infette nei giorni precedenti. Bisogna però fare attenzione a particolari superfici come ad esempio le maniglie degli autobus.
 Normalmente le malattie respiratorie non si tramettono con gli alimenti, che comunque devono essere manipolati rispettando le buone pratiche igieniche ed evitando il contatto fra alimenti crudi e cotti.
 
 ## L'igiene e le statistiche
