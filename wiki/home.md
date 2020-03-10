@@ -12,6 +12,7 @@ Chiunque è in grado di editare e aggiungere contenuti semplicemente utilizzando
 ## Perché devi informarti e responsabilizzarti:
 
 1. Non facendolo puoi essere legalmente considerato un **criminale** per [l'articolo 650 del codice penale](https://www.brocardi.it/codice-penale/libro-terzo/titolo-i/capo-i/sezione-i/art650.html). Nella pratica la diffusione irresponsabile del virus, anche quando si pensa di non averlo, equivale al contagio e alla morte di una serie innumerevole di persone, tra cui parenti e persone care, per via della sua alta probabilità di contagio. Come è accaduto ad [Eboli e in molte altre città](https://www.ottopagine.it/sa/attualita/211270/coronavirus-ad-eboli-de-luca-sconcertante-irresponsabilita.shtml). Quindi anche se legalmente le sanzioni non sono eccessive in alcuni paesi, moralmente è come [essere un carnefice](https://www.huffingtonpost.it/entry/prima-pena-di-morte-in-cina-per-uomo-che-tenta-la-fuga-da-wuhan_it_5e5cdd69c5b6beedb4ee2fb3).
+Le conseguenze della diffusione del virus inoltre vanno a mettere a rischio l'intero sistema sanitario nazionale e l'economia stessa della nazione.
 
 2. La [**deresponsabilizzazione**](http://www.treccani.it/enciclopedia/deresponsabilizzazione_%28Lessico-del-XXI-Secolo%29/) in una società causa problemi a catena che vanno dal lavoro, alla salute e all'educazione. In questo caso si può notare come l'Italia ne è più affetta per via della propria cultura, mentre paesi più "calvinisti" (dove è più forte il senso di responsabilità personale) riescono a rallentare e contenere questa diffusione.
 
