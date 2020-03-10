@@ -20,8 +20,6 @@ Le conseguenze della diffusione del virus inoltre vanno a mettere a rischio l'in
 
 4. **In passato altre pandemie** hanno causato milioni di morti e la loro diffusione è stata frenata grazie a specifiche accortenze. Ad oggi viviamo nell'era dell'informazione, pertanto non è ammesso che si debba vivere ancora nell'ignoranza permettendo al virus di espandersi eccessivamente.
 
-In [questa pagina](fake-news) potete trovare una lista di fake news riguardo il corona virus.
-
 # COVID-19
 
 **Tutte le informazioni più importanti sono presenti sul portale del [ministero della salute](http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=italiano&id=228#3).**
