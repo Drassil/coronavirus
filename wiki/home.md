@@ -92,12 +92,17 @@ E' necessario quindi chiedere alla propria azienda di prendere tutte le precauzi
 
 ### Divertimento e social
 
-* **Cinema e Serie:** Netflix, Amazon Video, Youtube
+Restando a casa si possono riscoprire un po' di hobby costruttivi quali: leggere un libro, suonare uno strumento, giocare a giochi da tavolo, disegnare, mettersi in contatto audio-video con amici e parenti ecc.
+Se avete uno spazio aperto e il meteo ve lo permette, rilassarsi all'area aperta o fare qualche attività fisica non può che far bene.
+Se poi volete affidarvi alla tecnologia ecco qualche soluzione interessante:
+
+* **Cinema e Serie:** Netflix, Amazon Video, Youtube, TV
 * **Giochi smartphones, PC e Console.**
 * **Giochi in streaming** (anche su dispositivi lenti): [Playstation Now](https://www.playstation.com/it-it/explore/playstation-now/) , Google stadia, [Geforce Now](https://www.nvidia.com/it-it/geforce-now/).
 * **Simulatori vita reale**: [Second Life](https://join.secondlife.com/)
 * **Social networks**: [Facebook](http://www.facebook.com/), [Instagram](https://instagram.com), [telegram](https://telegram.org/#/im), [discord](https://discordapp.com/)
 * **Musica**: Spotify, Youtube Music, Amazon Music
+* **Realtà Virtuale**: [oculus](https://www.oculus.com/?locale=it_IT), [Playstation VR](https://www.playstation.com/en-us/explore/playstation-vr/)
 
 
 ### Attività fisiche
