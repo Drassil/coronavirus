@@ -57,6 +57,8 @@ Su [questo sito](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html
 
 Uno dei metodi più efficaci per evitare la diffusione del virus è una quarantena personale, soprattutto per chi vive in aree ad alto rischio come in Italia. Siccome il virus ha un periodo di incubazione che va fino ai 14 giorni e si presenta con gravi sintomi nelle persone destabilizzate, se tutti rispettassero autonomamente la quarantena, si limitassero e controllassero gli accessi al paese, tale virus potrebbe essere contenuto in tempi inferiori a quelli previsti.
 
+Come già detto è necessario lavare spesso le mani ed avere cura della propria igiene personale. In caso si è in luoghi dove non è possibile lavare le mani si può ricorrere a disinfettanti come l'amuchina, che possono essere anche prodotti in casa come mostra [questo video](https://www.youtube.com/watch?v=GMmtHmw9WG8)
+
 Inoltre è consigliato di restare in buona salute:
 * Restare al caldo ma con un buon [ricambio d'aria](https://www.tuttogreen.it/ecco-le-regole-per-un-ricambio-daria-perfetto/)
 * Fare un sufficiente esercizio fisico anche a corpo libero e in casa. 
@@ -133,3 +135,5 @@ Molte banche oggi permettono l'apertura di un conto in banca senza dover recarsi
 ### Legale
 
 * [Lexdo](https://www.lexdo.it/)
+
+
