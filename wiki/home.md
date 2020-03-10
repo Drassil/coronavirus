@@ -51,6 +51,8 @@ Normalmente le malattie respiratorie non si tramettono con gli alimenti, che com
 
 In questo caso particolare di emergenza sanitaria però è richiesta la massima attenzione e cura per l'igiene per via dell'alta probabilità di contagio.  
 
+Su [questo sito](http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1) trovate tutte le statistiche fornite dalla protezione civile aggiornate in tempo reale
+
 ## Come evitare la diffusione del virus e curarsi
 
 Uno dei metodi più efficaci per evitare la diffusione del virus è una quarantena personale, soprattutto per chi vive in aree ad alto rischio come in Italia. Siccome il virus ha un periodo di incubazione che va fino ai 14 giorni e si presenta con gravi sintomi nelle persone destabilizzate, se tutti rispettassero autonomamente la quarantena, si limitassero e controllassero gli accessi al paese, tale virus potrebbe essere contenuto in tempi inferiori a quelli previsti.
