@@ -7,7 +7,7 @@ published: true
 
 Questa WIKI è **costantemente in aggiornamento** ed stata creata per contenere guide e informazioni utili per poter contrastare al meglio il virus COVID-19.
 Il progetto è **no-profit**, libero da pubblicità ed [open source](https://github.com/Drassil/coronavirus). 
-Chiunque è in grado di collaborare nella raccolta e validazione delle informazioni di questa wiki, [qui trovate le istruzioni si come fare](come-contribuire).
+Chiunque è in grado di collaborare nella raccolta e validazione delle informazioni di questa wiki, [qui trovate le istruzioni su come fare](come-contribuire).
 
 ## Perché devi informarti e responsabilizzarti:
 
